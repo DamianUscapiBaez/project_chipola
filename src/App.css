@@ -1,0 +1,9 @@
+/* autocomplete */
+#list-customer {
+    text-transform: uppercase;
+}
+
+.swal2-container {
+    z-index: 9999;
+    /* Ajusta el valor del z-index según tus necesidades */
+}
